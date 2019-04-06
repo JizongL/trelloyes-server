@@ -31,3 +31,48 @@
 {"message":"Card with id 03a25cfa-4a31-4654-b36d-4e2ecd9d2353 created","level":"info"}
 {"message":"Card with id 00905462-b8d3-4606-8e76-21080821ef1d created","level":"info"}
 {"message":"Card with id 45b091d8-6dee-42f2-989c-2b2007890467 created","level":"info"}
+{"message":"Card with id 03a25cfa-4a31-4654-b36d-4e2ecd9d2353 not found.","level":"error"}
+{"message":"Card with id e9603a7a-e9db-45fa-84e2-8feb7b9ae239 created","level":"info"}
+{"message":"Card with id eb119cae-46b4-4df9-9573-12a0865117e7 created","level":"info"}
+{"message":"Card with id f672e9ea-7fee-4718-91b1-dad249671bb9 created","level":"info"}
+{"message":"Card with id f072f215-133a-4751-8881-5fe09709aff0 created","level":"info"}
+{"message":"Card with id 4b3ccb4d-75ea-4f80-a141-8682c2a4599f created","level":"info"}
+{"message":"Card with id 27ed06af-afc7-44cd-9395-9bc2ab195b66 created","level":"info"}
+{"message":"Card with id 2 not found in cards array.","level":"error"}
+{"message":"Card with id 3 not found in cards array.","level":"error"}
+{"message":"Card with id 4 not found in cards array.","level":"error"}
+{"message":"Card with id 5 not found in cards array.","level":"error"}
+{"message":"Card with id 2 not found in cards array.","level":"error"}
+{"message":"Card with id 3 not found in cards array.","level":"error"}
+{"message":"Card with id 4 not found in cards array.","level":"error"}
+{"message":"Card with id 5 not found in cards array.","level":"error"}
+{"message":"Card with id 5 not found in cards array.","level":"error"}
+{"message":"List with id a2f5b4c0-7b73-4835-934f-a73681db44d3 created","level":"info"}
+{"message":"List with id db7b5be5-5d65-485f-b69b-5e6a2c228e26 created","level":"info"}
+{"message":"List with id 9a095b36-803c-443e-868b-afc07301ac3c created","level":"info"}
+{"message":"List with id d8cbbd7c-6911-4469-a4ee-2aaa8d14b0b3 created","level":"info"}
+{"message":"List with id f91b1075-8ca0-47fa-9b4d-12047e8c7744 created","level":"info"}
+{"message":"List with id a05416f7-f1f9-4c2d-b314-2468823fa23f created","level":"info"}
+{"message":"List with id fc578c1c-b3ce-4daf-8889-a4e7bb9d8147 created","level":"info"}
+{"message":"List with id a782944d-5735-4992-9dab-8862d80e2a97 created","level":"info"}
+{"message":"Card with id 2 not found in cards array.","level":"error"}
+{"message":"Card with id 2 not found in cards array.","level":"error"}
+{"message":"Card with id 3 not found in cards array.","level":"error"}
+{"message":"Card with id 2 not found in cards array.","level":"error"}
+{"message":"Card with id 4 not found in cards array.","level":"error"}
+{"message":"Card with id 2 not found in cards array.","level":"error"}
+{"message":"Card with id 3 not found in cards array.","level":"error"}
+{"message":"Card with id 2 not found in cards array.","level":"error"}
+{"message":"Card with id 4 not found in cards array.","level":"error"}
+{"message":"Card with id 65777911-337f-4cd8-b445-50bd37dbfe23 created","level":"info"}
+{"message":"Card with id getId not found.","level":"error"}
+{"message":"Card with id 37212201-3b66-4666-89f9-22f6d1a09c09 created","level":"info"}
+{"message":"Card with id c4bf105a-cf97-4fc7-9455-e16b6b9dcbf6 created","level":"info"}
+{"message":"Card with id b7eaee17-0869-4dd2-91be-8468c01dfb6b created","level":"info"}
+{"message":"Card with id b187c0c8-e220-4d8f-a77d-72b3b7b7c042 created","level":"info"}
+{"message":"Card with id a96b4ab6-7928-4abd-908f-0334da72d1cc created","level":"info"}
+{"message":"Card with id ada4c8a6-8459-4814-8a63-d38ca0dae6f8 created","level":"info"}
+{"message":"Card with id d3a5fb95-a368-4209-b593-4a3ebc95af14 created","level":"info"}
+{"message":"Card with id 514d40f7-45b7-404a-8952-2ac0ff61d628 created","level":"info"}
+{"message":"Card with id a58747ef-6626-4b87-b198-89428f751cfe created","level":"info"}
+{"message":"List with id a7bccdcc-4cd6-44a7-a51c-ff8497a96622 created","level":"info"}
